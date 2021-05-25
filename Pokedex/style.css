@@ -16,6 +16,7 @@ h1 {
 	font-size: 54px;
 }
 
+
 .pokedex {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
